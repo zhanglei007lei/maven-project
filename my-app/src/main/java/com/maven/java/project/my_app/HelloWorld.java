@@ -4,7 +4,7 @@ public class HelloWorld {
 
 	 public String sayHello()
 	    {
-	        return "Hello Maven";
+	        return "updat this Hello Maven";
 	    }
 
 	    public static void main(String[] args)
