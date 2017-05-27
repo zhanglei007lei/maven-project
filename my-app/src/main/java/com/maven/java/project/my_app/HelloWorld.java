@@ -4,7 +4,7 @@ public class HelloWorld {
 
 	 public String sayHello()
 	    {
-	        return "updat this Hello Maven";
+	        return "this is master branch ";
 	    }
 
 	    public static void main(String[] args)
